@@ -1,0 +1,24 @@
+.newbox1
+{
+    color: red;
+    border: solid black;
+    width: 50px;
+    height: 30px;
+}
+.newbox2
+{
+    color: red;
+    border: solid black;
+    width: 50px;
+    height: 30px;
+}
+
+.maincontainer
+ {
+    height: 100vh;
+    border: 2px solid goldenrod;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
